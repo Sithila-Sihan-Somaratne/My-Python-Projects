@@ -520,3 +520,4 @@ while i < len(thisList):
     i = i + 1
 
 [print(x) for x in thisList]
+
