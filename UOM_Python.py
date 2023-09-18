@@ -292,3 +292,4 @@ fhandle2 = open("myfile.txt", "w")
 mystring = "I'm learning IT with iCET, UoM, Udemy, W3School, Google Sites and YouTube."
 fhandle2.write(mystring)
 fhandle2.close()
+

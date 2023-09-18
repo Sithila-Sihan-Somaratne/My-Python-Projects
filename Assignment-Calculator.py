@@ -1,7 +1,6 @@
 # Write the functions for arithmatic operations here
 # These functions should cover Task 2
 
-
 # -------------------------------------
 # Write the select_op(choice) function here
 # This function should cover Task 1 (Section 2) and Task 3
